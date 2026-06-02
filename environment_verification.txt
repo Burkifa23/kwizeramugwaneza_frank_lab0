@@ -1,0 +1,11 @@
+==================================================
+LAB 0: ENVIRONMENT VERIFICATION
+==================================================
+✅ Python Version: 3.8.0
+✅ OS: Windows 10
+✅ NumPy: 1.24.4
+✅ Pandas: 2.0.3
+✅ Matplotlib: 3.7.5
+✅ Seaborn: 0.13.2
+✅ Virtual Environment: Active (C:\Users\kwize\OneDrive\Documents\Ashesi\Intro to AI\ai_labs\ai-course-lab0\ai_env)
+==================================================
